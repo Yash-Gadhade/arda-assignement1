@@ -1,4 +1,7 @@
 {
   "name": "Smart Contract",
-  "packageManager": "yarn@3.3.0"
+  "packageManager": "yarn@3.3.0",
+  "devDependencies": {
+    "hardhat": "^2.12.2"
+  }
 }
